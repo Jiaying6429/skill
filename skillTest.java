@@ -4,6 +4,6 @@ import org.junit.*;
 public class skillTest {
     @Test
     public void testabs() {
-        assertEquals(2, skill.absValue(-1));
+        assertEquals(2, skill.absValue(-2));
     }
 }
